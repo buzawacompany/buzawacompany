@@ -152,7 +152,7 @@ Check out some of my projects below:
 - **[Full-stack e-commerce app](https://github.com/buzawacompany/THIS-AMAZING-EVER-SITE-TO-HAPPEN)**: A fully functioning e-commerce platform using React, Next.js, and Django.
 - **[YouTube Video Downloader](https://github.com/buzawacompany/multithreaded-video-downloader)**: Python script to automate downloading videos from YouTube links.
 - **[Hardware Performance Monitoring](https://github.com/buzawacompany/system-performance/tree/main)**: PowerShell script to monitor and log system performance (CPU, RAM, Disk usage).
-- DATA ANALYSIS :
+- DATA ANALYSIS :https://github.com/buzawacompany/DATA-ANALYSIS/tree/main
 
 ---
 
