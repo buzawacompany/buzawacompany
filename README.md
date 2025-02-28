@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Analyst*
 Check out some of my projects below:
 
 - **[Full-stack e-commerce app](./projects/software-development/full-stack-ecommerce)**: A fully functioning e-commerce platform using React, Next.js, and Django.
-- **[YouTube Video Downloader](./projects/software-development/automation-scripts/youtube-downloader.py)**: Python script to automate downloading videos from YouTube links.
+- **[YouTube Video Downloader](https://github.com/buzawacompany/multithreaded-video-downloader)**: Python script to automate downloading videos from YouTube links.
 - **[Hardware Performance Monitoring](./projects/data-analysis/hardware-monitoring)**: PowerShell script to monitor and log system performance (CPU, RAM, Disk usage).
 
 ---
